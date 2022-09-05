@@ -1,2 +1,3 @@
 # Test
-It's only for testing
+It's only available for testing
+Test Item is Git
